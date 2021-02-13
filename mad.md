@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://www.github.com/MrMadBhai/MadCam"><img title="MadCam" src="https://github.com/mrmadbhai/MadBhai/blob/main/MadCam.jpg"></a>
 </p>
+
 ## What is MadCam ?
 
 MadCam is a Tool that can grab cam shots of targeted phone's of front camera or PC's webcam by just sending a link.
