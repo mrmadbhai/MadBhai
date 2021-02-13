@@ -21,7 +21,7 @@ First of all MadCam tool host a phishing site on attacker local network. This to
 * Garuda Linux
 
 ## Prerequisite 
-* sudo - (Must)
+* sudo - (Must) for Linux
 * php
 * apache2
 
